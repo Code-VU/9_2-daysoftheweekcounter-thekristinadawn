@@ -22,7 +22,7 @@ def countDayOfTheWeek():
 
         
 
-countDayOfTheWeek()
+#countDayOfTheWeek()
 
 # end assignment
 ## if you want to test locally before you try to sync
